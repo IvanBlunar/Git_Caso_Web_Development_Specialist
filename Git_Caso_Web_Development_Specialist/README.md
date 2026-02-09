@@ -393,7 +393,7 @@ Ver: `./Diagramas/E-commerce API Flow-2026-02-08-233549.png`
 
 ---
 
-## 💡 Highlights del Proyecto
+## Highlights del Proyecto
 
 Código funcional production-ready  
 Arquitectura escalable multi-país  
